@@ -33,6 +33,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 gem 'httparty', '0.13.5'
+
 gem 'capybara'
 
 group :development, :test do
